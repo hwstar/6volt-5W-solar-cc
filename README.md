@@ -1,8 +1,10 @@
 ***6volt-5W-solar-cc***
+=============
+
+This is a solar charge controller for use with 5 watt 6 volt solar panels.
 
 **Introduction**
 
-This is a solar charge controller for use with 5 watt 6 volt solar panels.
 The project use a custom printed circuit board for the charge controller
 power management electronics, and requires an external Arduino pro mini
 to run the control firmware.
@@ -36,7 +38,7 @@ Rear view of board:
 **Firmware**
 
 The firmware is hosted as a separate project on my github pages.
-The project is named fw-6volt-5W-solar-cc. For more details on
+See [fw-6volt-5W-solar-cc](https://github.com/hwstar/fw-6volt-5W-solar-cc). For more details on
 the firmware features, please visit the firmware page.
 
 **Python/tkinter utility**
@@ -44,7 +46,7 @@ the firmware features, please visit the firmware page.
 A Python/tkinter utility is available to download variables from the
 charge controller in real time using a Bus Pirate and an I2C interface.
 This is also hosted on my github pages under 
-chargectrlr-python-buspirate.
+[chargectrlr-python-buspirate](https://github.com/hwstar/chargectrlr-python-buspirate).
 
 **License**
 
