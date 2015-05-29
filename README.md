@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This is solar charge controller for use with 5 watt 6 volt solar panels.
+This is a solar charge controller for use with 5 watt 6 volt solar panels.
 The project use a custom printed circuit board for the charge controller
 power management electronics, and requires an external Arduino pro mini
 to run the control firmware.
