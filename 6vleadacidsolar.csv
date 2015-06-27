@@ -22,6 +22,6 @@ Item,Part Number,Qty,Reference(s),Title/Description,Value on Schematic,Manufactu
 21,800023-100,3,"R3,R6,R7","RES,0603,10.0K OHM,1%",10.0K,Open Market,N/A
 22,800023-200,1,R4,"RES,0603,20.0K OHM,1%",20.0K,Open Market,N/A
 23,800010-102,1,R5,"RES,0603,1K OHM,5%",1K,Open Market,N/A
-24,XXXXXX-XXX,3,SJ1-SJ3,Unknown,GS3,Unknown,Unknown
+24,N/A,3,SJ1-SJ3,Solder Jumper,GS3,N/A,N/A
 25,800122-101,2,"U1,U2","IC,CURRENT SENSOR,100V/V,SOT23-5",CS30CL,ST Microelectronics,CS30CL
 26,800105-101,1,VR1,"IC,VREG,5V,150MA,SOT23-5",MIC5205,Micrel,MIC5205YM5 TR
