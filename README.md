@@ -35,6 +35,12 @@ Rear view of board:
 
 ![BoardRear](Board-Rear.jpg)
 
+**Board Blanks**
+
+Board blanks are available on Tindie:
+
+https://www.tindie.com/products/hwstarsr/6-volt-5-watt-solar-charge-controller
+
 **Firmware**
 
 The firmware is hosted as a separate project on my github pages.
